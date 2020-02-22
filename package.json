@@ -1,0 +1,11 @@
+{
+  "name": "metatransactions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jzafrap/metatransactions.git",
+  "author": "Oluwafemi Akinde <oluwafemiakinde@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eth-crypto": "^1.5.2"
+  }
+}
